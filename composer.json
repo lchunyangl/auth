@@ -1,0 +1,16 @@
+{
+    "name": "chunyang/auth",
+    "description": "自定义登录",
+    "authors": [
+        {
+            "name": "lchunyangl",
+            "email": "lchunyangl@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chunyang\\Auth\\": "src/"
+        }
+    }
+}
